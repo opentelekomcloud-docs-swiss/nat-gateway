@@ -9,5 +9,6 @@ The NAT Gateway service offers the Network Address Translation (NAT) function fo
 
    .. service_card::
       :service_type: natgw
+      :cloud_environment: swiss
       :umn: This document describes the basic concepts, types and performance, application scenarios, constraints, and FAQs of the NAT Gateway service.
       :api-ref: This document describes the APIs provided by the NAT Gateway service with the functions, parameters, and examples of each API.
