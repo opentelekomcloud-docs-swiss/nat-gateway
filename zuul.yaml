@@ -6,8 +6,8 @@
       - helpcenter-swiss-base-jobs
     vars:
       sphinx_pdf_files:
-        - natgw-umn.pdf
         - natgw-api-ref.pdf
+        - natgw-umn.pdf
     check:
       jobs:
         - noop
